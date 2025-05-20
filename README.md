@@ -7,13 +7,12 @@
 
 - 🌱 I’m currently learning **Laravel, Reactjs**
 
-- 👯 I’m looking to collaborate on **TNM Company**
+- 👯 I’m collaborate on **TNM Company**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuypnGit](https://github.com/HuypnGit)
 
-- 📫 How to reach me **huy.phanhu559@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+📫 How to reach me **huy.phanhuu559@gmail.com**
 <p align="left">
 </p>
 
