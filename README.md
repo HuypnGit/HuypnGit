@@ -1,20 +1,209 @@
 <h1 align="center">Hi 👋, I'm Huy Phan</h1>
-<h3 align="center">A passionate backend developer from VietNam</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huypngit" alt="huypngit" /></a> </p>
+<h3 align="center">
+Middle Backend Engineer (PHP/Laravel)
+</h3>
 
-- 🔭 I’m currently working on **Laravel Project**
-
-- 🌱 I’m currently learning **Laravel, Reactjs**
-
-- 👯 I’m collaborate on **TNM Company**
-
-- 👨‍💻 All of my projects are available at [https://github.com/HuypnGit](https://github.com/HuypnGit)
-
-<h3 align="left">Connect with me:</h3>
-📫 How to reach me **huy.phanhuu559@gmail.com**
-<p align="left">
+<p align="center">
+Enterprise Systems • E-commerce • Production Systems • AI-assisted Development
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+
+<a href="mailto:huy.phanhuu559@gmail.com">
+📧 huy.phanhuu559@gmail.com
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+
+<a href="https://github.com/HuypnGit">
+🐙 GitHub
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+I'm a **Middle Backend Engineer** with **4+ years of experience** building enterprise, e-commerce and production systems using **PHP, Laravel, Magento 2, WordPress, Shopware and Symfony**.
+
+I enjoy solving complex backend problems, designing scalable APIs and continuously improving software development efficiency by leveraging modern AI tools.
+
+### Highlights
+
+- 💼 4+ years of Backend Development experience
+- ⚙️ Specialized in PHP/Laravel ecosystem
+- 🏢 Enterprise & Production Systems
+- 🛒 E-commerce Development
+- 🇯🇵 Experience collaborating with Japanese partners
+- 👨‍💻 Team Lead experience
+- 🤖 AI-assisted Software Development
+- 🧠 Strong in Requirement Analysis & Backend Architecture
+
+---
+
+# 🔭 Current Focus
+
+- Enterprise Laravel Applications
+- Shopware 6 Development
+- Backend Architecture
+- RESTful API Design
+- AI-assisted Development Workflow
+- Production System Optimization
+
+---
+
+# 🤖 AI-assisted Development
+
+I actively leverage AI throughout the software development lifecycle.
+
+AI Tools
+
+- ChatGPT
+- Claude
+- Cursor
+- GitHub Copilot
+- Gemini
+
+Applied for
+
+- Requirement Analysis
+- Backend Development
+- Frontend Implementation (React/Vue)
+- API Design
+- Debugging
+- Code Review
+- SQL Optimization
+- Documentation
+- Refactoring
+- Architecture Discussion
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,wordpress"/>
+
+</p>
+
+Additional Experience
+
+- Magento 2
+- Shopware 6
+
+---
+
+## Frontend (AI-assisted)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vue,js,html,css,bootstrap"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,redis"/>
+
+</p>
+
+Additional
+
+- DynamoDB
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
+
+</p>
+
+Additional
+
+- AWS Cognito
+
+---
+
+## Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+</p>
+
+AI Productivity
+
+- Cursor
+- GitHub Copilot
+- ChatGPT
+- Claude
+- Gemini
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=HuypnGit&show_icons=true&theme=default&hide_border=true"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuypnGit&layout=compact&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🎯 Career Objective
+
+I aim to build scalable backend systems that are reliable, maintainable and efficient while continuously improving development productivity through AI-assisted engineering.
+
+I'm passionate about:
+
+- Backend Architecture
+- Enterprise Applications
+- RESTful APIs
+- Production Systems
+- Cloud Technologies
+- AI-assisted Software Engineering
+
+---
+
+# 📫 Contact
+
+📧 Email
+
+**huy.phanhuu559@gmail.com**
+
+🐙 GitHub
+
+https://github.com/HuypnGit
+
+📍 Location
+
+Hue, Vietnam
+
+---
+
+<p align="center">
+
+Thanks for visiting my profile ⭐
+
+</p>
